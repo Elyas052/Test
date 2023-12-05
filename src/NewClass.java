@@ -12,4 +12,8 @@ public class NewClass {
         }
         return sum;
     }
+
+    public static void hello(){
+        System.out.println("Hello Everyone ");
+    }
 }
