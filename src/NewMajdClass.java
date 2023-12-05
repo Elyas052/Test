@@ -13,7 +13,11 @@ public class NewMajdClass {
             System.out.println("Hello World");
         } else {
             System.out.println("Sorry, I only say hello to good worlds only");
+
         }
+    }
+    public static void goodBye(){
+        System.out.println("Good evening");
     }
 
 }
