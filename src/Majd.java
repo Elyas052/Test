@@ -5,7 +5,7 @@ public class Majd {
     }
 
     public static void HelloMajd(){
-        System.out.println("Hello Majd");
+        System.out.println("Hello  Majd");
     }
 
 }
