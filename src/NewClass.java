@@ -16,4 +16,8 @@ public class NewClass {
     public static void hello(){
         System.out.println("Hello Everyone ");
     }
+
+    public static void bye(){
+        System.out.println("Goodbye");
+    }
 }
